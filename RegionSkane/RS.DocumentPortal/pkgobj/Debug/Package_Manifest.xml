@@ -21,5 +21,6 @@
   </TemplateFiles>
   <FeatureManifests>
     <FeatureManifest Location="RS.DocumentPortal_Master_LayoutPages\Feature.xml" />
+    <FeatureManifest Location="RS.DocumentPortal_SUS_TaxonomiTree\Feature.xml" />
   </FeatureManifests>
 </Solution>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="RS.DocumentPortal: SUS Organizational Taxonomy Tree" Description="Generates SUS Organizational Taxonomy tree using RegionSkåne Managed Metadata Service application" Id="03f27a7f-2982-4da6-b654-f165a4e03501" ReceiverAssembly="RS.DocumentPortal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ce9e3a3485552e00" ReceiverClass="RS.DocumentPortal.Features.Feature1.Feature1EventReceiver" Scope="Farm"></Feature>

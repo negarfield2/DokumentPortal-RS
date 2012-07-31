@@ -16,3 +16,9 @@ C:\Code Repository\RegionSkane\RS.DocumentPortal\bin\Debug\Microsoft.Sharepoint.
 C:\Code Repository\RegionSkane\RS.DocumentPortal\obj\Debug\ResolveAssemblyReference.cache
 C:\Code Repository\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.dll
 C:\Code Repository\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.pdb
+C:\CodeRep\DokumentPortal-RS\RegionSkane\RS.DocumentPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\CodeRep\DokumentPortal-RS\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.pdb
+C:\CodeRep\DokumentPortal-RS\RegionSkane\RS.DocumentPortal\bin\Debug\RS.DocumentPortal.dll
+C:\CodeRep\DokumentPortal-RS\RegionSkane\RS.DocumentPortal\bin\Debug\RS.DocumentPortal.pdb
+C:\CodeRep\DokumentPortal-RS\RegionSkane\RS.DocumentPortal\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\CodeRep\DokumentPortal-RS\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.dll

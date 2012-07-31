@@ -2,6 +2,7 @@
 <package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a1b400fa-2b8a-4147-90f6-d4c1ce1deead" solutionId="a1b400fa-2b8a-4147-90f6-d4c1ce1deead" resetWebServer="false" name="RS.DocumentPortal" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
   <features>
     <featureReference itemId="fd58df8f-3e98-489f-a69c-25237f98d93e" />
+    <featureReference itemId="2c07d044-64d6-4c23-ba87-db86a3957d06" />
   </features>
   <projectItems>
     <projectItemReference itemId="159c0dc7-937d-4edc-bb59-d07d9011c54c" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Provisions Custom Master pages and Page layouts to the Document portal's Master Page Gallery" Id="e5695fe4-80f1-440d-a88d-b98668def313" Scope="Site" Title="RS.DocumentPortal: Layouts and MasterPages">
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="RS.DocumentPortal: Layouts and MasterPages" Description="Provisions Custom Master pages and Page layouts to the Document portal's Master Page Gallery" Id="e5695fe4-80f1-440d-a88d-b98668def313" Scope="Site">
   <ElementManifests>
     <ElementManifest Location="MasterPages\Elements.xml" />
     <ElementFile Location="MasterPages\RSMasterPagev4.master" />

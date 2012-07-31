@@ -53,6 +53,9 @@
     <Reference Include="Microsoft.SharePoint.Security" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Features\SUS_TaxonomiTree\SUS_TaxonomiTree.EventReceiver.cs">
+      <DependentUpon>SUS_TaxonomiTree.feature</DependentUpon>
+    </Compile>
     <Compile Include="Master_LayoutPages\PageLayouts\RSStartPageLayout.aspx.cs">
       <DependentUpon>RSStartPageLayout.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -64,6 +67,9 @@
     <Compile Include="Utilities\OrganizationalHierarchy.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Features\SUS_TaxonomiTree\SUS_TaxonomiTree.feature">
+      <FeatureId>{2c07d044-64d6-4c23-ba87-db86a3957d06}</FeatureId>
+    </None>
     <None Include="Features\Master_LayoutPages\Master_LayoutPages.feature">
       <FeatureId>{fd58df8f-3e98-489f-a69c-25237f98d93e}</FeatureId>
     </None>
@@ -98,6 +104,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="Features\SUS_TaxonomiTree\SUS_TaxonomiTree.Template.xml">
+      <DependentUpon>SUS_TaxonomiTree.feature</DependentUpon>
+    </Content>
     <Content Include="Features\Master_LayoutPages\Master_LayoutPages.Template.xml">
       <DependentUpon>Master_LayoutPages.feature</DependentUpon>
     </Content>

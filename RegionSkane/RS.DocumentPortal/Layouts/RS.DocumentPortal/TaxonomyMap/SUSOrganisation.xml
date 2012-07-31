@@ -11,10 +11,13 @@
 			<AvailableForTagging>True</AvailableForTagging>
 			<Url>RS</Url>
 			<Navigation>True</Navigation>
+      <Labels>
 			<Label>RS</Label>
 			<Label>Region</Label>
 			<Label>Skåne</Label>
 			<Label>RegionSkåne</Label>
+      </Labels>
+      <Terms>
 			<Term>
 				<DefaultLabel>SUS</DefaultLabel>
 				<Description>Skånes Universitetsjukhuset</Description>
@@ -22,9 +25,12 @@
 				<AvailableForTagging>True</AvailableForTagging>
 				<Url>SUS</Url>
 				<Navigation>True</Navigation>
+        <Labels>
 				<Label>SUS</Label>
 				<Label>Universitetsjukhus</Label>
 				<Label>Skåne</Label>
+        </Labels>
+        <Terms>
 				<Term>
 					<DefaultLabel>Sjukhusledning</DefaultLabel>
 					<Description>Sjukhusledning</Description>
@@ -32,7 +38,9 @@
 					<AvailableForTagging>True</AvailableForTagging>
 					<Url>Sjukhusledn</Url>
 					<Navigation>True</Navigation>
+          <Labels>
 					<Label>ledning</Label>
+          </Labels>
 				</Term>
 				<Term>
 					<DefaultLabel>Sjukhusövergripande staber</DefaultLabel>
@@ -41,9 +49,12 @@
 					<AvailableForTagging>True</AvailableForTagging>
 					<Url>Stab</Url>
 					<Navigation>True</Navigation>
+          <Labels>
 					<Label>stab</Label>
 					<Label>övergripande</Label>
 					<Label>sjukhusövergripande</Label>
+          </Labels>
+          <Terms>
 					<Term>
 						<DefaultLabel>Staben för Verksamhetsutveckling och eHälsa</DefaultLabel>
 						<Description>Staben för Verksamhetsutveckling och eHälsa</Description>
@@ -51,10 +62,12 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>SVeH</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Stab</Label>
 						<Label>Verksamhet</Label>
 						<Label>Verksamhetsutveckling</Label>
 						<Label>eHälsa</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>HR-staben</DefaultLabel>
@@ -63,8 +76,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>HR</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>HR</Label>
 						<Label>stab</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Universitetsmedicinskt centrum</DefaultLabel>
@@ -73,9 +88,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>UMC</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Universitetsmedicinskt</Label>
 						<Label>Universitetsmedicin</Label>
 						<Label>centrum</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Ekonomistaben</DefaultLabel>
@@ -84,8 +101,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Ekonomi</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Ekonomi</Label>
 						<Label>stab</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Staben för Strategisk utveckling</DefaultLabel>
@@ -94,10 +113,12 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>StratUtv</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Strategisk</Label>
 						<Label>Strategi</Label>
 						<Label>utveckling</Label>
 						<Label>stab</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Evalueringsstaben</DefaultLabel>
@@ -106,8 +127,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Evaluer</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Evaluering</Label>
 						<Label>stab</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Staben för Basservice</DefaultLabel>
@@ -116,10 +139,13 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Basservice</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Basservice</Label>
 						<Label>Service</Label>
 						<Label>stab</Label>
+            </Labels>
 					</Term>
+          </Terms>
 				</Term>
 				<Term>
 					<DefaultLabel>Akutdivisionen</DefaultLabel>
@@ -128,7 +154,10 @@
 					<AvailableForTagging>True</AvailableForTagging>
 					<Url>Akutdivisionen</Url>
 					<Navigation>True</Navigation>
+          <Labels>
 					<Label>akut</Label>
+          </Labels>
+          <Terms>
 					<Term>
 						<DefaultLabel>Akutcentrum</DefaultLabel>
 						<Description>Akutcentrum</Description>
@@ -136,8 +165,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Akutcentr</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Akut</Label>
 						<Label>centrum</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Akutsjukvård</DefaultLabel>
@@ -146,9 +177,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Akutsjv</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Akut</Label>
 						<Label>Akuten</Label>
 						<Label>sjukvård</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Geriatriskt utvecklingscentrum</DefaultLabel>
@@ -157,8 +190,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>GUC</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Geriatriskt</Label>
 						<Label>utvecklingscentrum</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Region Skånes prehospitala centrum</DefaultLabel>
@@ -167,11 +202,14 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>RSPC</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>prehospitala</Label>
 						<Label>centrum</Label>
 						<Label>Region</Label>
 						<Label>Skåne</Label>
+            </Labels>
 					</Term>
+          </Terms>
 				</Term>
 				<Term>
 					<DefaultLabel>Divisionen för cancer och blodsjukdomar</DefaultLabel>
@@ -180,9 +218,12 @@
 					<AvailableForTagging>True</AvailableForTagging>
 					<Url>DivCaoBlod</Url>
 					<Navigation>True</Navigation>
+          <Labels>
 					<Label>cancer</Label>
 					<Label>blod</Label>
 					<Label>blodsjukdom</Label>
+          </Labels>
+          <Terms>
 					<Term>
 						<DefaultLabel>Hematologiska kliniken</DefaultLabel>
 						<Description>Hematologiska kliniken</Description>
@@ -190,9 +231,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Hema</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Hematologiska</Label>
 						<Label>Hematologi</Label>
 						<Label>kliniken</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Koagulationscentrum</DefaultLabel>
@@ -201,8 +244,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Koag</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Koagulation</Label>
 						<Label>centrum</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Onkologiskt centrumtumörregistret</DefaultLabel>
@@ -211,11 +256,13 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Octumreg</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Onkologiskt</Label>
 						<Label>Onkologi</Label>
 						<Label>tumör</Label>
 						<Label>centrum</Label>
 						<Label>register</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Strålningsfysik</DefaultLabel>
@@ -224,8 +271,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Stralfys</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Strålning</Label>
 						<Label>fysik</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Skånes onkologiska klinik</DefaultLabel>
@@ -234,10 +283,13 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>SOK</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Skåne</Label>
 						<Label>Skånes</Label>
 						<Label>onkologiska</Label>
+            </Labels>
 					</Term>
+          </Terms>
 				</Term>
 				<Term>
 					<DefaultLabel>Kvinno-, barn- och reproduktionsdivisionen</DefaultLabel>
@@ -246,10 +298,13 @@
 					<AvailableForTagging>True</AvailableForTagging>
 					<Url>Kvbaorepdiv</Url>
 					<Navigation>True</Navigation>
+          <Labels>
 					<Label>kvinno</Label>
 					<Label>kvinna</Label>
 					<Label>barn</Label>
 					<Label>reproduktion</Label>
+          </Labels>
+          <Terms>
 					<Term>
 						<DefaultLabel>Barnhjärtcentrum</DefaultLabel>
 						<Description>Barnhjärtcentrum</Description>
@@ -257,9 +312,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Barnhjartc</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Barn</Label>
 						<Label>Hjärt</Label>
 						<Label>centrum</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Barnkirurgiska kliniken</DefaultLabel>
@@ -268,9 +325,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>BarnkirKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Barn</Label>
 						<Label>Kirurgi</Label>
 						<Label>Kirurg</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Barn- och ungdomsmedicinska kliniken</DefaultLabel>
@@ -279,10 +338,12 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>BaoungdmedKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Barn</Label>
 						<Label>ungdom</Label>
 						<Label>medicin</Label>
 						<Label>ungdomsmedicin</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Kvinnokliniken</DefaultLabel>
@@ -291,8 +352,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>KK</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Kvinno</Label>
 						<Label>Kvinna</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Neonatalkliniken</DefaultLabel>
@@ -301,7 +364,9 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Neonatal</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Neonatal</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Reproduktionsmedicinskt centrum</DefaultLabel>
@@ -310,11 +375,14 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>RMC</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Reproduktionsmedicinskt</Label>
 						<Label>Reproduktion</Label>
 						<Label>medicinsk</Label>
 						<Label>centrum</Label>
+            </Labels>
 					</Term>
+          </Terms>
 				</Term>
 				<Term>
 					<DefaultLabel>Kirurgidivisionen</DefaultLabel>
@@ -323,8 +391,11 @@
 					<AvailableForTagging>True</AvailableForTagging>
 					<Url>Kirdiv</Url>
 					<Navigation>True</Navigation>
+          <Labels>
 					<Label>Kirurgi</Label>
 					<Label>Kirurg</Label>
+          </Labels>
+          <Terms>
 					<Term>
 						<DefaultLabel>Anestesikliniken</DefaultLabel>
 						<Description>Anestesikliniken</Description>
@@ -332,7 +403,9 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>AnestesiKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Anestesi</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Handkirurgiska kliniken</DefaultLabel>
@@ -341,9 +414,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>HandkirKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Hand</Label>
 						<Label>kirurgi</Label>						
-						<Label>kirurg</Label>						
+						<Label>kirurg</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Intensivvårdskliniken</DefaultLabel>
@@ -352,9 +427,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>IVA</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Intensiv</Label>
 						<Label>vård</Label>
-						<Label>Intensivvård</Label>						
+						<Label>Intensivvård</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Intensiv- och Perioperativ vård</DefaultLabel>
@@ -363,9 +440,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>IoPv</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Intensiv</Label>
 						<Label>Perioperativ</Label>						
-						<Label>vård</Label>						
+						<Label>vård</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Kirurgiska kliniken</DefaultLabel>
@@ -374,8 +453,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>KirKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Kirurgi</Label>
 						<Label>Kirurg</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Käkkirurgiska kliniken</DefaultLabel>
@@ -384,9 +465,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>KarkirKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Käke</Label>
 						<Label>Kirurgi</Label>						
 						<Label>Kirurg</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Logopedmottagningen</DefaultLabel>
@@ -395,9 +478,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>LogMott</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Logoped</Label>
 						<Label>Logopedi</Label>
-						<Label>mottagning</Label>						
+						<Label>mottagning</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Ortopediska kliniken</DefaultLabel>
@@ -406,8 +491,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>OrtKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Ortopediska</Label>
 						<Label>Ortopedi</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Plastikkirurgiska kliniken</DefaultLabel>
@@ -416,8 +503,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>PlastikkirKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Plastikkirurgi</Label>
 						<Label>Plastikkirurg</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Urologiska kliniken</DefaultLabel>
@@ -426,8 +515,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>UrologKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Urologi</Label>
 						<Label>Urologiska</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Ögonkliniken</DefaultLabel>
@@ -436,8 +527,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>OgonKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Ögon</Label>
 						<Label>Öga</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Öron-, näs-, halskliniken</DefaultLabel>
@@ -446,10 +539,13 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>ONH</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Öron</Label>
 						<Label>Näsa</Label>
 						<Label>Hals</Label>
+            </Labels>
 					</Term>
+          </Terms>
 				</Term>
 				<Term>
 					<DefaultLabel>Divisionen för diagnostik och klinisk service</DefaultLabel>
@@ -458,10 +554,13 @@
 					<AvailableForTagging>True</AvailableForTagging>
 					<Url>Divdiagnoklinserv</Url>
 					<Navigation>True</Navigation>
+          <Labels>
 					<Label>diagnostik</Label>
 					<Label>diagnos</Label>
 					<Label>klinisk</Label>
 					<Label>service</Label>
+          </Labels>
+          <Terms>
 					<Term>
 						<DefaultLabel>Bild- och funktionsdiagnostiskt centrum</DefaultLabel>
 						<Description>Bild- och funktionsdiagnostiskt centrum</Description>
@@ -469,11 +568,13 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>BMC</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Bild</Label>
 						<Label>funktionsdiagnostiskt</Label>
 						<Label>funktion</Label>
 						<Label>diagnos</Label>
 						<Label>centrum</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Diagnostiskt centrum för bild- och funktionsmedicin</DefaultLabel>
@@ -482,6 +583,7 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>DCBFC</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Diagnostiskt</Label>
 						<Label>Diagnos</Label>
 						<Label>centrum</Label>
@@ -489,6 +591,7 @@
 						<Label>funktionsmedicin</Label>
 						<Label>funktion</Label>
 						<Label>medicin</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Medicinsk teknik</DefaultLabel>
@@ -497,9 +600,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>MT</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Medicinsk</Label>
 						<Label>Medicin</Label>
 						<Label>teknik</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Neurofysiologiska kliniken</DefaultLabel>
@@ -508,9 +613,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>NeurofysKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Neuro</Label>
 						<Label>fysiologiska</Label>
 						<Label>fysiologi</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Practicum Clinical Skills Centre</DefaultLabel>
@@ -519,12 +626,15 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Practicum</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Practicum</Label>
 						<Label>Clinical</Label>
 						<Label>Skills</Label>
 						<Label>Centre</Label>
 						<Label>Centrum</Label>
+            </Labels>
 					</Term>
+          </Terms>
 				</Term>
 				<Term>
 					<DefaultLabel>Divisionen för hjärna, hjärta, lungor och kärl</DefaultLabel>
@@ -533,10 +643,13 @@
 					<AvailableForTagging>True</AvailableForTagging>
 					<Url>DivHHLK</Url>
 					<Navigation>True</Navigation>
+          <Labels>
 					<Label>hjärna</Label>
 					<Label>hjärta</Label>
 					<Label>lungor</Label>
 					<Label>kärl</Label>
+          </Labels>
+          <Terms>
 					<Term>
 						<DefaultLabel>Arytmikliniken</DefaultLabel>
 						<Description>Arytmikliniken</Description>
@@ -544,7 +657,9 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>ArytmiKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Arytmi</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Kardiologiska kliniken</DefaultLabel>
@@ -553,8 +668,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>KardKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Kardiologiska</Label>
 						<Label>Kardiologi</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Kliniken för hjärtsvikt och klaffsjukdomar</DefaultLabel>
@@ -563,11 +680,13 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Hjartoklaff</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>hjärtsvikt</Label>
 						<Label>hjärta</Label>
 						<Label>svikt</Label>
 						<Label>klaff</Label>
 						<Label>klaffsjukdomar</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Kliniken för kognitiv medicin</DefaultLabel>
@@ -576,8 +695,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Kognitivmed</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>kognitiv</Label>
 						<Label>medicin</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Kranskärlskliniken</DefaultLabel>
@@ -586,8 +707,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Krankarl</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Kranskärl</Label>
 						<Label>kärl</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Kliniken för thoraxkirurgi, anestesi och intensivvård</DefaultLabel>
@@ -596,11 +719,13 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>THIVA</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>thoraxkirurgi</Label>
 						<Label>thorax</Label>
 						<Label>anestesi</Label>
 						<Label>intensivvård</Label>
 						<Label>intensiv</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Kärlkliniken</DefaultLabel>
@@ -609,7 +734,9 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>KarlKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Kärl</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Lung- och allergikliniken</DefaultLabel>
@@ -618,10 +745,12 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>LungOchAllergi</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Lung</Label>
 						<Label>Lunga</Label>
 						<Label>Allergi</Label>
 						<Label>Allergisk</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Neurokirurgiska kliniken</DefaultLabel>
@@ -630,9 +759,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>NeurologiskaKliniken</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Neuro</Label>
 						<Label>kirurgi</Label>
 						<Label>kirurg</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Neuropsykiatriska kliniken</DefaultLabel>
@@ -641,8 +772,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Neuropsyk</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Neuro</Label>
 						<Label>psykiatri</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Rehabiliteringsmedicin</DefaultLabel>
@@ -651,10 +784,13 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Rehabmed</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Rehabilitering</Label>
 						<Label>Rehab</Label>
 						<Label>medicin</Label>
+            </Labels>
 					</Term>
+          </Terms>
 				</Term>
 				<Term>
 					<DefaultLabel>Divisionen för specialiserad medicin</DefaultLabel>
@@ -663,9 +799,12 @@
 					<AvailableForTagging>True</AvailableForTagging>
 					<Url>Divspecmed</Url>
 					<Navigation>True</Navigation>
+          <Labels>
 					<Label>specialiserad</Label>
 					<Label>specialist</Label>
 					<Label>medicin</Label>
+          </Labels>
+          <Terms>
 					<Term>
 						<DefaultLabel>Endokrinologiska kliniken</DefaultLabel>
 						<Description>Endokrinologiska kliniken</Description>
@@ -673,8 +812,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Endokrin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Endokrinologiska</Label>
 						<Label>Endokrinologi</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Gastrokliniken</DefaultLabel>
@@ -683,7 +824,9 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Gastro</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Gastro</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Hudkliniken</DefaultLabel>
@@ -692,7 +835,9 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Hudklin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Hud</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Infektionskliniken</DefaultLabel>
@@ -701,7 +846,9 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>InfKlin</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Infektion</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Infektionssjukvård</DefaultLabel>
@@ -710,8 +857,10 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Infsjv</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Infektion</Label>
 						<Label>sjukvård</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Njur- och transplantationskliniken</DefaultLabel>
@@ -720,9 +869,11 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Njurtranspl</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Njur</Label>
 						<Label>transplantation</Label>
 						<Label>transplantera</Label>
+            </Labels>
 					</Term>
 					<Term>
 						<DefaultLabel>Reumatologiska kliniken</DefaultLabel>
@@ -731,12 +882,17 @@
 						<AvailableForTagging>True</AvailableForTagging>
 						<Url>Reuma</Url>
 						<Navigation>True</Navigation>
+            <Labels>
 						<Label>Reumatologiska</Label>
 						<Label>Reumatologi</Label>
 						<Label>Reumatism</Label>
+            </Labels>
 					</Term>
+          </Terms>
 				</Term>
-			</Term>	
+        </Terms>
+			</Term>
+      </Terms>
 		</Term>
 	</TermSet>
 </TermSets>

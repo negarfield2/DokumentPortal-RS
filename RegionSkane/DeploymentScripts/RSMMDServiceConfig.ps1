@@ -9,9 +9,9 @@ $webApplicationRootUrl = "http://dev"
 $webAppHostHeader= "RegionSkaneDokumentPortal"
 
 
-$applicationPoolName = "RegionSkane_Managed_Metadata_AppPool"
-$mmdServiceName = "RegionSkane Managed Metadata Service"
-$mmdDatabaseName = "RegionSkane_MMD_Service"
+$applicationPoolName = "RS_MMD_AppPool"
+$mmdServiceName = "RegionSkåne Managed Metadata Service "
+$mmdDatabaseName = "RS_MMD_Service"
 
 
 iisreset
@@ -55,7 +55,7 @@ Write-Host -f Green "*****************************************************"
 #Note: A Later change in the order the scripts run in --> -HubUri $webApplicationRootUrl":"$Port must be added to the service application after the main site has been created!
 $MetaDataServiceApp = New-SPMetadataServiceApplication -Name $mmdServiceName -ApplicationPool $ApplicationPool -DatabaseName $mmdDatabaseName -DatabaseServer $databaseServer 
 
-$RSMetaDataProxyName= "RegionSkane Metadata Service Application Proxy"
+$RSMetaDataProxyName= "RegionSkåne Metadata Service Application Proxy"
 $MetaDataServiceAppProxy = New-SPMetadataServiceApplicationProxy -Name $RSMetaDataProxyName -ServiceApplication $MetaDataServiceApp -DefaultProxyGroup
 
 iisreset
