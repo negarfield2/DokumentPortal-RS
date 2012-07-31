@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RegionSkane\RS.DocumentPortal\bin\Debug\RS.DocumentPortal.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RegionSkane\RS.DocumentPortal\bin\Debug\RS.DocumentPortal.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RegionSkane\RS.DocumentPortal\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RegionSkane\RS.DocumentPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.pdb
+C:\Users\Administrator\~RS\Code Repository\RegionSkane\RS.DocumentPortal\bin\Debug\RS.DocumentPortal.dll
+C:\Users\Administrator\~RS\Code Repository\RegionSkane\RS.DocumentPortal\bin\Debug\RS.DocumentPortal.pdb
+C:\Users\Administrator\~RS\Code Repository\RegionSkane\RS.DocumentPortal\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\~RS\Code Repository\RegionSkane\RS.DocumentPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\~RS\Code Repository\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.dll
+C:\Users\Administrator\~RS\Code Repository\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.pdb
+C:\Code Repository\RegionSkane\RS.DocumentPortal\bin\Debug\RS.DocumentPortal.dll
+C:\Code Repository\RegionSkane\RS.DocumentPortal\bin\Debug\RS.DocumentPortal.pdb
+C:\Code Repository\RegionSkane\RS.DocumentPortal\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Code Repository\RegionSkane\RS.DocumentPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Code Repository\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.dll
+C:\Code Repository\RegionSkane\RS.DocumentPortal\obj\Debug\RS.DocumentPortal.pdb

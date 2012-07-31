@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Templates xmlns:ows="Microsoft SharePoint">
+  <Template Name="RS.DocumentPortal" ID="100000">
+    <Configuration ID="0" 
+                   Title="RS.DocumentPortal" 
+                   Hidden="FALSE"
+                   ImageUrl="/_layouts/images/RS.DocumentPortal/RSLogo.png"
+                   Description="RegionSkåne Document Portal" 
+                   DisplayCategory="RegionSkåne"
+                   BaseTemplateName="BDR"
+                   BaseConfigurationID="0">
+    </Configuration>
+  </Template>
+</Templates>

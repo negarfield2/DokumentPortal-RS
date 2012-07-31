@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="StartPageModule" Url="" Path="StartPageModule">
+    <File  Url="default.aspx" NavBarHome="True" IgnoreIfAlreadyExists="false" >
+      <Property Name="Title" Value="RegionSkåne Document Portal" />
+      <AllUsersWebPart WebPartZoneID="TopRight" WebPartOrder="1">
+        <![CDATA[
+                    <WebPart xmlns="http://schemas.microsoft.com/WebPart/v2">
+                        <Assembly>Microsoft.Office.DocumentManagement, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+                        <TypeName>Microsoft.Office.Server.WebControls.DocIdSearchWebPart</TypeName>
+                        <Title>$Resources:dlccore,DocIdLookupWebpart_Title</Title>
+                        <FrameType>None</FrameType>
+                        <ChromeType>None</ChromeType>                            
+                        <CatalogIconImageUrl>/_layouts/images/msimagel.gif</CatalogIconImageUrl>
+                        <DisplayText></DisplayText>
+                    </WebPart>    
+                ]]>
+      </AllUsersWebPart>
+    </File>
+</Module>
+</Elements>

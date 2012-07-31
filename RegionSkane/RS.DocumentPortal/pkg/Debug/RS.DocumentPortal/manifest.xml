@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a1b400fa-2b8a-4147-90f6-d4c1ce1deead" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RS.DocumentPortal.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\RS.DocumentPortal\1846_region_skane.png" />
+    <TemplateFile Location="Images\RS.DocumentPortal\header-bg.png" />
+    <TemplateFile Location="Images\RS.DocumentPortal\RSLogo.png" />
+    <TemplateFile Location="Images\RS.DocumentPortal\top-menu-bg.png" />
+    <TemplateFile Location="Images\RS.DocumentPortal\top-menu-clicked-bg.png" />
+    <TemplateFile Location="Images\RS.DocumentPortal\top-menu-red1.png" />
+    <TemplateFile Location="Images\RS.DocumentPortal\wp-bg-9-1.png" />
+    <TemplateFile Location="Images\RS.DocumentPortal\wpHeader-bg.png" />
+    <TemplateFile Location="Layouts\RS.DocumentPortal\css\RSLayout.css" />
+    <TemplateFile Location="Layouts\RS.DocumentPortal\css\RSMasterV4.css" />
+    <TemplateFile Location="Layouts\RS.DocumentPortal\TaxonomyMap\SUSOrganisation.xml" />
+    <TemplateFile Location="SiteTemplates\RS.DocumentPortal\Xml\onet.xml" />
+    <TemplateFile Location="1053\xml\webtemp_RS.DocumentPortal.xml" />
+    <TemplateFile Location="1033\xml\webtemp_RS.DocumentPortal.xml" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="RS.DocumentPortal_Master_LayoutPages\Feature.xml" />
+  </FeatureManifests>
+</Solution>

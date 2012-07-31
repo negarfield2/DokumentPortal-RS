@@ -1,0 +1,40 @@
+﻿.zonegap
+{   
+    width: auto;
+    width: 20px;
+}
+    
+.layout-top-left-zone
+{
+    vertical-align: top;
+    width: auto;
+    width:800px;
+}
+    
+.layout-top-right-zone
+{
+    vertical-align: top;
+    width: auto;
+    width:200px;
+}
+
+.layout-bottom-left-zone
+{
+    vertical-align: top;
+    width: auto;
+    width:550px;
+}
+
+.layoutTable
+{
+    vertical-align:top !important;
+    text-align :left !important;
+    padding-left: 0px !important;
+    width:auto !important;
+    width: 98% !important;
+}
+
+.zoneColumn
+{
+    vertical-align: top text-top !important;    
+    }

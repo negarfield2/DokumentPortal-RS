@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TermSets>
+	<TermSet>
+		<Name>Region Skåne Organisation Hierarki</Name>
+		<Description>Region Skåne Organisation Hierarki</Description>
+		<AvailableForTagging>True</AvailableForTagging>
+		<Term>
+			<DefaultLabel>RS</DefaultLabel>
+			<Description>RegionSkåne</Description>
+			<Language>Swedish</Language>
+			<AvailableForTagging>True</AvailableForTagging>
+			<Url>RS</Url>
+			<Navigation>True</Navigation>
+			<Label>RS</Label>
+			<Label>Region</Label>
+			<Label>Skåne</Label>
+			<Label>RegionSkåne</Label>
+			<Term>
+				<DefaultLabel>SUS</DefaultLabel>
+				<Description>Skånes Universitetsjukhuset</Description>
+				<Language>Swedish</Language>
+				<AvailableForTagging>True</AvailableForTagging>
+				<Url>SUS</Url>
+				<Navigation>True</Navigation>
+				<Label>SUS</Label>
+				<Label>Universitetsjukhus</Label>
+				<Label>Skåne</Label>
+				<Term>
+					<DefaultLabel>Sjukhusledning</DefaultLabel>
+					<Description>Sjukhusledning</Description>
+					<Language>Swedish</Language>
+					<AvailableForTagging>True</AvailableForTagging>
+					<Url>Sjukhusledn</Url>
+					<Navigation>True</Navigation>
+					<Label>ledning</Label>
+				</Term>
+				<Term>
+					<DefaultLabel>Sjukhusövergripande staber</DefaultLabel>
+					<Description>Sjukhusövergripande staber</Description>
+					<Language>Swedish</Language>
+					<AvailableForTagging>True</AvailableForTagging>
+					<Url>Stab</Url>
+					<Navigation>True</Navigation>
+					<Label>stab</Label>
+					<Label>övergripande</Label>
+					<Label>sjukhusövergripande</Label>
+					<Term>
+						<DefaultLabel>Staben för Verksamhetsutveckling och eHälsa</DefaultLabel>
+						<Description>Staben för Verksamhetsutveckling och eHälsa</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>SVeH</Url>
+						<Navigation>True</Navigation>
+						<Label>Stab</Label>
+						<Label>Verksamhet</Label>
+						<Label>Verksamhetsutveckling</Label>
+						<Label>eHälsa</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>HR-staben</DefaultLabel>
+						<Description>HR-staben</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>HR</Url>
+						<Navigation>True</Navigation>
+						<Label>HR</Label>
+						<Label>stab</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Universitetsmedicinskt centrum</DefaultLabel>
+						<Description>Universitetsmedicinskt centrum</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>UMC</Url>
+						<Navigation>True</Navigation>
+						<Label>Universitetsmedicinskt</Label>
+						<Label>Universitetsmedicin</Label>
+						<Label>centrum</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Ekonomistaben</DefaultLabel>
+						<Description>Ekonomistaben</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Ekonomi</Url>
+						<Navigation>True</Navigation>
+						<Label>Ekonomi</Label>
+						<Label>stab</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Staben för Strategisk utveckling</DefaultLabel>
+						<Description>Staben för Strategisk utveckling</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>StratUtv</Url>
+						<Navigation>True</Navigation>
+						<Label>Strategisk</Label>
+						<Label>Strategi</Label>
+						<Label>utveckling</Label>
+						<Label>stab</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Evalueringsstaben</DefaultLabel>
+						<Description>Evalueringsstaben</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Evaluer</Url>
+						<Navigation>True</Navigation>
+						<Label>Evaluering</Label>
+						<Label>stab</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Staben för Basservice</DefaultLabel>
+						<Description>Staben för Basservice</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Basservice</Url>
+						<Navigation>True</Navigation>
+						<Label>Basservice</Label>
+						<Label>Service</Label>
+						<Label>stab</Label>
+					</Term>
+				</Term>
+				<Term>
+					<DefaultLabel>Akutdivisionen</DefaultLabel>
+					<Description>Akutdivisionen</Description>
+					<Language>Swedish</Language>
+					<AvailableForTagging>True</AvailableForTagging>
+					<Url>Akutdivisionen</Url>
+					<Navigation>True</Navigation>
+					<Label>akut</Label>
+					<Term>
+						<DefaultLabel>Akutcentrum</DefaultLabel>
+						<Description>Akutcentrum</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Akutcentr</Url>
+						<Navigation>True</Navigation>
+						<Label>Akut</Label>
+						<Label>centrum</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Akutsjukvård</DefaultLabel>
+						<Description>Akutsjukvård</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Akutsjv</Url>
+						<Navigation>True</Navigation>
+						<Label>Akut</Label>
+						<Label>Akuten</Label>
+						<Label>sjukvård</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Geriatriskt utvecklingscentrum</DefaultLabel>
+						<Description>Geriatriskt utvecklingscentrum</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>GUC</Url>
+						<Navigation>True</Navigation>
+						<Label>Geriatriskt</Label>
+						<Label>utvecklingscentrum</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Region Skånes prehospitala centrum</DefaultLabel>
+						<Description>Region Skånes prehospitala centrum</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>RSPC</Url>
+						<Navigation>True</Navigation>
+						<Label>prehospitala</Label>
+						<Label>centrum</Label>
+						<Label>Region</Label>
+						<Label>Skåne</Label>
+					</Term>
+				</Term>
+				<Term>
+					<DefaultLabel>Divisionen för cancer och blodsjukdomar</DefaultLabel>
+					<Description>Divisionen för cancer och blodsjukdomar</Description>
+					<Language>Swedish</Language>
+					<AvailableForTagging>True</AvailableForTagging>
+					<Url>DivCaoBlod</Url>
+					<Navigation>True</Navigation>
+					<Label>cancer</Label>
+					<Label>blod</Label>
+					<Label>blodsjukdom</Label>
+					<Term>
+						<DefaultLabel>Hematologiska kliniken</DefaultLabel>
+						<Description>Hematologiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Hema</Url>
+						<Navigation>True</Navigation>
+						<Label>Hematologiska</Label>
+						<Label>Hematologi</Label>
+						<Label>kliniken</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Koagulationscentrum</DefaultLabel>
+						<Description>Koagulationscentrum</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Koag</Url>
+						<Navigation>True</Navigation>
+						<Label>Koagulation</Label>
+						<Label>centrum</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Onkologiskt centrumtumörregistret</DefaultLabel>
+						<Description>Onkologiskt centrumtumörregistret</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Octumreg</Url>
+						<Navigation>True</Navigation>
+						<Label>Onkologiskt</Label>
+						<Label>Onkologi</Label>
+						<Label>tumör</Label>
+						<Label>centrum</Label>
+						<Label>register</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Strålningsfysik</DefaultLabel>
+						<Description>Strålningsfysik</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Stralfys</Url>
+						<Navigation>True</Navigation>
+						<Label>Strålning</Label>
+						<Label>fysik</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Skånes onkologiska klinik</DefaultLabel>
+						<Description>Skånes onkologiska klinik</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>SOK</Url>
+						<Navigation>True</Navigation>
+						<Label>Skåne</Label>
+						<Label>Skånes</Label>
+						<Label>onkologiska</Label>
+					</Term>
+				</Term>
+				<Term>
+					<DefaultLabel>Kvinno-, barn- och reproduktionsdivisionen</DefaultLabel>
+					<Description>Kvinno-, barn- och reproduktionsdivisionen</Description>
+					<Language>Swedish</Language>
+					<AvailableForTagging>True</AvailableForTagging>
+					<Url>Kvbaorepdiv</Url>
+					<Navigation>True</Navigation>
+					<Label>kvinno</Label>
+					<Label>kvinna</Label>
+					<Label>barn</Label>
+					<Label>reproduktion</Label>
+					<Term>
+						<DefaultLabel>Barnhjärtcentrum</DefaultLabel>
+						<Description>Barnhjärtcentrum</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Barnhjartc</Url>
+						<Navigation>True</Navigation>
+						<Label>Barn</Label>
+						<Label>Hjärt</Label>
+						<Label>centrum</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Barnkirurgiska kliniken</DefaultLabel>
+						<Description>Barnkirurgiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>BarnkirKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Barn</Label>
+						<Label>Kirurgi</Label>
+						<Label>Kirurg</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Barn- och ungdomsmedicinska kliniken</DefaultLabel>
+						<Description>Barn- och ungdomsmedicinska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>BaoungdmedKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Barn</Label>
+						<Label>ungdom</Label>
+						<Label>medicin</Label>
+						<Label>ungdomsmedicin</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Kvinnokliniken</DefaultLabel>
+						<Description>Kvinnokliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>KK</Url>
+						<Navigation>True</Navigation>
+						<Label>Kvinno</Label>
+						<Label>Kvinna</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Neonatalkliniken</DefaultLabel>
+						<Description>Neonatalkliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Neonatal</Url>
+						<Navigation>True</Navigation>
+						<Label>Neonatal</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Reproduktionsmedicinskt centrum</DefaultLabel>
+						<Description>Reproduktionsmedicinskt centrum</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>RMC</Url>
+						<Navigation>True</Navigation>
+						<Label>Reproduktionsmedicinskt</Label>
+						<Label>Reproduktion</Label>
+						<Label>medicinsk</Label>
+						<Label>centrum</Label>
+					</Term>
+				</Term>
+				<Term>
+					<DefaultLabel>Kirurgidivisionen</DefaultLabel>
+					<Description>Kirurgidivisionen</Description>
+					<Language>Swedish</Language>
+					<AvailableForTagging>True</AvailableForTagging>
+					<Url>Kirdiv</Url>
+					<Navigation>True</Navigation>
+					<Label>Kirurgi</Label>
+					<Label>Kirurg</Label>
+					<Term>
+						<DefaultLabel>Anestesikliniken</DefaultLabel>
+						<Description>Anestesikliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>AnestesiKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Anestesi</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Handkirurgiska kliniken</DefaultLabel>
+						<Description>Handkirurgiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>HandkirKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Hand</Label>
+						<Label>kirurgi</Label>						
+						<Label>kirurg</Label>						
+					</Term>
+					<Term>
+						<DefaultLabel>Intensivvårdskliniken</DefaultLabel>
+						<Description>Intensivvårdskliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>IVA</Url>
+						<Navigation>True</Navigation>
+						<Label>Intensiv</Label>
+						<Label>vård</Label>
+						<Label>Intensivvård</Label>						
+					</Term>
+					<Term>
+						<DefaultLabel>Intensiv- och Perioperativ vård</DefaultLabel>
+						<Description>Intensiv- och Perioperativ vård</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>IoPv</Url>
+						<Navigation>True</Navigation>
+						<Label>Intensiv</Label>
+						<Label>Perioperativ</Label>						
+						<Label>vård</Label>						
+					</Term>
+					<Term>
+						<DefaultLabel>Kirurgiska kliniken</DefaultLabel>
+						<Description>Kirurgiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>KirKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Kirurgi</Label>
+						<Label>Kirurg</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Käkkirurgiska kliniken</DefaultLabel>
+						<Description>Käkkirurgiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>KarkirKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Käke</Label>
+						<Label>Kirurgi</Label>						
+						<Label>Kirurg</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Logopedmottagningen</DefaultLabel>
+						<Description>Logopedmottagningen</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>LogMott</Url>
+						<Navigation>True</Navigation>
+						<Label>Logoped</Label>
+						<Label>Logopedi</Label>
+						<Label>mottagning</Label>						
+					</Term>
+					<Term>
+						<DefaultLabel>Ortopediska kliniken</DefaultLabel>
+						<Description>Ortopediska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>OrtKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Ortopediska</Label>
+						<Label>Ortopedi</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Plastikkirurgiska kliniken</DefaultLabel>
+						<Description>Plastikkirurgiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>PlastikkirKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Plastikkirurgi</Label>
+						<Label>Plastikkirurg</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Urologiska kliniken</DefaultLabel>
+						<Description>Urologiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>UrologKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Urologi</Label>
+						<Label>Urologiska</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Ögonkliniken</DefaultLabel>
+						<Description>Ögonkliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>OgonKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Ögon</Label>
+						<Label>Öga</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Öron-, näs-, halskliniken</DefaultLabel>
+						<Description>Öron-, näs-, halskliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>ONH</Url>
+						<Navigation>True</Navigation>
+						<Label>Öron</Label>
+						<Label>Näsa</Label>
+						<Label>Hals</Label>
+					</Term>
+				</Term>
+				<Term>
+					<DefaultLabel>Divisionen för diagnostik och klinisk service</DefaultLabel>
+					<Description>Divisionen för diagnostik och klinisk service</Description>
+					<Language>Swedish</Language>
+					<AvailableForTagging>True</AvailableForTagging>
+					<Url>Divdiagnoklinserv</Url>
+					<Navigation>True</Navigation>
+					<Label>diagnostik</Label>
+					<Label>diagnos</Label>
+					<Label>klinisk</Label>
+					<Label>service</Label>
+					<Term>
+						<DefaultLabel>Bild- och funktionsdiagnostiskt centrum</DefaultLabel>
+						<Description>Bild- och funktionsdiagnostiskt centrum</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>BMC</Url>
+						<Navigation>True</Navigation>
+						<Label>Bild</Label>
+						<Label>funktionsdiagnostiskt</Label>
+						<Label>funktion</Label>
+						<Label>diagnos</Label>
+						<Label>centrum</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Diagnostiskt centrum för bild- och funktionsmedicin</DefaultLabel>
+						<Description>Diagnostiskt centrum för bild- och funktionsmedicin</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>DCBFC</Url>
+						<Navigation>True</Navigation>
+						<Label>Diagnostiskt</Label>
+						<Label>Diagnos</Label>
+						<Label>centrum</Label>
+						<Label>bild</Label>
+						<Label>funktionsmedicin</Label>
+						<Label>funktion</Label>
+						<Label>medicin</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Medicinsk teknik</DefaultLabel>
+						<Description>Medicinsk teknik</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>MT</Url>
+						<Navigation>True</Navigation>
+						<Label>Medicinsk</Label>
+						<Label>Medicin</Label>
+						<Label>teknik</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Neurofysiologiska kliniken</DefaultLabel>
+						<Description>Neurofysiologiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>NeurofysKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Neuro</Label>
+						<Label>fysiologiska</Label>
+						<Label>fysiologi</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Practicum Clinical Skills Centre</DefaultLabel>
+						<Description>Practicum Clinical Skills Centre</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Practicum</Url>
+						<Navigation>True</Navigation>
+						<Label>Practicum</Label>
+						<Label>Clinical</Label>
+						<Label>Skills</Label>
+						<Label>Centre</Label>
+						<Label>Centrum</Label>
+					</Term>
+				</Term>
+				<Term>
+					<DefaultLabel>Divisionen för hjärna, hjärta, lungor och kärl</DefaultLabel>
+					<Description>Divisionen för diagnostik och klinisk service</Description>
+					<Language>Swedish</Language>
+					<AvailableForTagging>True</AvailableForTagging>
+					<Url>DivHHLK</Url>
+					<Navigation>True</Navigation>
+					<Label>hjärna</Label>
+					<Label>hjärta</Label>
+					<Label>lungor</Label>
+					<Label>kärl</Label>
+					<Term>
+						<DefaultLabel>Arytmikliniken</DefaultLabel>
+						<Description>Arytmikliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>ArytmiKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Arytmi</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Kardiologiska kliniken</DefaultLabel>
+						<Description>Kardiologiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>KardKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Kardiologiska</Label>
+						<Label>Kardiologi</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Kliniken för hjärtsvikt och klaffsjukdomar</DefaultLabel>
+						<Description>Kliniken för hjärtsvikt och klaffsjukdomar</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Hjartoklaff</Url>
+						<Navigation>True</Navigation>
+						<Label>hjärtsvikt</Label>
+						<Label>hjärta</Label>
+						<Label>svikt</Label>
+						<Label>klaff</Label>
+						<Label>klaffsjukdomar</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Kliniken för kognitiv medicin</DefaultLabel>
+						<Description>Kliniken för kognitiv medicin</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Kognitivmed</Url>
+						<Navigation>True</Navigation>
+						<Label>kognitiv</Label>
+						<Label>medicin</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Kranskärlskliniken</DefaultLabel>
+						<Description>Kranskärlskliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Krankarl</Url>
+						<Navigation>True</Navigation>
+						<Label>Kranskärl</Label>
+						<Label>kärl</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Kliniken för thoraxkirurgi, anestesi och intensivvård</DefaultLabel>
+						<Description>Kliniken för thoraxkirurgi, anestesi och intensivvård</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>THIVA</Url>
+						<Navigation>True</Navigation>
+						<Label>thoraxkirurgi</Label>
+						<Label>thorax</Label>
+						<Label>anestesi</Label>
+						<Label>intensivvård</Label>
+						<Label>intensiv</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Kärlkliniken</DefaultLabel>
+						<Description>Kärlkliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>KarlKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Kärl</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Lung- och allergikliniken</DefaultLabel>
+						<Description>Lung- och allergikliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>LungOchAllergi</Url>
+						<Navigation>True</Navigation>
+						<Label>Lung</Label>
+						<Label>Lunga</Label>
+						<Label>Allergi</Label>
+						<Label>Allergisk</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Neurokirurgiska kliniken</DefaultLabel>
+						<Description>Neurokirurgiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>NeurologiskaKliniken</Url>
+						<Navigation>True</Navigation>
+						<Label>Neuro</Label>
+						<Label>kirurgi</Label>
+						<Label>kirurg</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Neuropsykiatriska kliniken</DefaultLabel>
+						<Description>Neuropsykiatriska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Neuropsyk</Url>
+						<Navigation>True</Navigation>
+						<Label>Neuro</Label>
+						<Label>psykiatri</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Rehabiliteringsmedicin</DefaultLabel>
+						<Description>Rehabiliteringsmedicin</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Rehabmed</Url>
+						<Navigation>True</Navigation>
+						<Label>Rehabilitering</Label>
+						<Label>Rehab</Label>
+						<Label>medicin</Label>
+					</Term>
+				</Term>
+				<Term>
+					<DefaultLabel>Divisionen för specialiserad medicin</DefaultLabel>
+					<Description>Divisionen för specialiserad medicin</Description>
+					<Language>Swedish</Language>
+					<AvailableForTagging>True</AvailableForTagging>
+					<Url>Divspecmed</Url>
+					<Navigation>True</Navigation>
+					<Label>specialiserad</Label>
+					<Label>specialist</Label>
+					<Label>medicin</Label>
+					<Term>
+						<DefaultLabel>Endokrinologiska kliniken</DefaultLabel>
+						<Description>Endokrinologiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Endokrin</Url>
+						<Navigation>True</Navigation>
+						<Label>Endokrinologiska</Label>
+						<Label>Endokrinologi</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Gastrokliniken</DefaultLabel>
+						<Description>Gastrokliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Gastro</Url>
+						<Navigation>True</Navigation>
+						<Label>Gastro</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Hudkliniken</DefaultLabel>
+						<Description>Hudkliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Hudklin</Url>
+						<Navigation>True</Navigation>
+						<Label>Hud</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Infektionskliniken</DefaultLabel>
+						<Description>Infektionskliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>InfKlin</Url>
+						<Navigation>True</Navigation>
+						<Label>Infektion</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Infektionssjukvård</DefaultLabel>
+						<Description>Infektionssjukvård</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Infsjv</Url>
+						<Navigation>True</Navigation>
+						<Label>Infektion</Label>
+						<Label>sjukvård</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Njur- och transplantationskliniken</DefaultLabel>
+						<Description>Njur- och transplantationskliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Njurtranspl</Url>
+						<Navigation>True</Navigation>
+						<Label>Njur</Label>
+						<Label>transplantation</Label>
+						<Label>transplantera</Label>
+					</Term>
+					<Term>
+						<DefaultLabel>Reumatologiska kliniken</DefaultLabel>
+						<Description>Reumatologiska kliniken</Description>
+						<Language>Swedish</Language>
+						<AvailableForTagging>True</AvailableForTagging>
+						<Url>Reuma</Url>
+						<Navigation>True</Navigation>
+						<Label>Reumatologiska</Label>
+						<Label>Reumatologi</Label>
+						<Label>Reumatism</Label>
+					</Term>
+				</Term>
+			</Term>	
+		</Term>
+	</TermSet>
+</TermSets>

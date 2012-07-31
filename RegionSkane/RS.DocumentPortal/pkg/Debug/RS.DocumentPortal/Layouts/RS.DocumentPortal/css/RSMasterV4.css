@@ -1,0 +1,56 @@
+﻿.s4-tn
+{
+ background: url(/_layouts/images/RS.DocumentPortal/top-menu-bg.png) White repeat-x left bottom !important;   
+}
+
+
+.s4-pr
+{
+     color : Black !important;
+     background: url(/_layouts/images/RS.DocumentPortal/top-menu-bg.png) White repeat-x left bottom !important;     
+}
+
+.footer
+{
+    height: 30px !important;
+     color : Black !important;
+     background: url(/_layouts/images/RS.DocumentPortal/top-menu-bg.png) White repeat-x left bottom !important;     
+    }
+
+.menu-item
+{
+   background: url(/_layouts/images/RS.DocumentPortal/wp-bg-9-1.png) White repeat-x left bottom !important;   
+    
+    }
+    
+.loaded
+{
+    background: url(/_layouts/images/RS.DocumentPortal/top-menu-bg.png) White repeat-x left bottom !important;   
+    }
+    
+.ms-cui-topBar2
+{
+    background: url(/_layouts/images/RS.DocumentPortal/top-menu-bg.png) White repeat-x left bottom !important;   
+}
+
+.ms-WPHeader
+{
+    background: url(/_layouts/images/RS.DocumentPortal/wp-bg-9-1.png) White repeat-x left bottom !important;   
+    border-bottom: 0px;
+    }
+
+.ms-WPTitle
+{
+    color: #676767 !important;    
+}
+
+
+.ms-WPBorder
+{
+    display : none !important;
+}
+    
+.s4-wpTopTable
+{
+
+}

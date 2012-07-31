@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS.DocumentPortal", "RS.DocumentPortal\RS.DocumentPortal.csproj", "{12ED530A-0EE9-4CB9-BC6F-63206C2E93D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeploymentScripts", "DeploymentScripts", "{32B61F4E-AC6E-4FF2-96CF-BB00983AA6A4}"
+	ProjectSection(SolutionItems) = preProject
+		DeploymentScripts\CleanFarm.ps1 = DeploymentScripts\CleanFarm.ps1
+		DeploymentScripts\Deploy.ps1 = DeploymentScripts\Deploy.ps1
+		DeploymentScripts\RSDeploy.ps1 = DeploymentScripts\RSDeploy.ps1
+		DeploymentScripts\RSFullDeploy.ps1 = DeploymentScripts\RSFullDeploy.ps1
+		DeploymentScripts\RSMMDServiceConfig.ps1 = DeploymentScripts\RSMMDServiceConfig.ps1
+		DeploymentScripts\RSWebApplicationSetup.ps1 = DeploymentScripts\RSWebApplicationSetup.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12ED530A-0EE9-4CB9-BC6F-63206C2E93D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12ED530A-0EE9-4CB9-BC6F-63206C2E93D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12ED530A-0EE9-4CB9-BC6F-63206C2E93D0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{12ED530A-0EE9-4CB9-BC6F-63206C2E93D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12ED530A-0EE9-4CB9-BC6F-63206C2E93D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12ED530A-0EE9-4CB9-BC6F-63206C2E93D0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
